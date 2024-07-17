@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "448818012886",
+    "firebase_url": "https://laroma-beauty-default-rtdb.firebaseio.com",
+    "project_id": "laroma-beauty",
+    "storage_bucket": "laroma-beauty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448818012886:android:60265e31aaf2c258c05f77",
+        "android_client_info": {
+          "package_name": "laromabeauty.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoQa9LQOmB1iS6DWpXMFThavewN8IGC-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
